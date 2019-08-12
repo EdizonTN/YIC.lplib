@@ -1,0 +1,10 @@
+(librepcb_library cf3c9106-3b5b-4992-ad00-5747a6e048ca
+ (name "YIC")
+ (description "Yuechung International Corporation")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-08-12T21:10:11Z)
+ (deprecated false)
+ (url "")
+)
