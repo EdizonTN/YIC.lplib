@@ -6,5 +6,5 @@
  (version "0.1")
  (created 2019-08-12T21:10:11Z)
  (deprecated false)
- (url "")
+ (url "https://github.com/EdizonTN/YIC.lplib")
 )
