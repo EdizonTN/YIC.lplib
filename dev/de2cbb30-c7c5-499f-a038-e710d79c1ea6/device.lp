@@ -1,6 +1,6 @@
 (librepcb_device de2cbb30-c7c5-499f-a038-e710d79c1ea6
  (name "25.00M-HC49-S")
- (description "")
+ (description "Crystal resonator 25MHz")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
