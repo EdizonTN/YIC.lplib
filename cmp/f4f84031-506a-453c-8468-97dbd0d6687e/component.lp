@@ -8,7 +8,7 @@
  (deprecated false)
  (category 39d4b3d6-4168-4fe2-9420-fbf7eb3ac248)
  (schematic_only false)
- (default_value "11.0592")
+ (default_value "{{FREQUENCY}}")
  (prefix "Q")
  (attribute "FREQUENCY" (type frequency) (unit megahertz) (value "11.0592"))
  (attribute "MPN" (type string) (unit none) (value "11.0592M-HC49-S"))
