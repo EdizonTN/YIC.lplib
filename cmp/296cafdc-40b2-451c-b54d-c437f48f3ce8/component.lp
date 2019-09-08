@@ -1,6 +1,6 @@
 (librepcb_component 296cafdc-40b2-451c-b54d-c437f48f3ce8
  (name "22.1184M-HC49-S")
- (description "±30ppm; 20pF")
+ (description "±30ppm; 20pF\n22.1184M-HC49-S")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -10,8 +10,8 @@
  (schematic_only false)
  (default_value "{{FREQUENCY}}")
  (prefix "Q")
- (attribute "FREQUENCY" (type frequency) (unit megahertz) (value "22.1184"))
  (attribute "MPN" (type string) (unit none) (value "22.1184M-HC49-S"))
+ (attribute "FREQUENCY" (type frequency) (unit megahertz) (value "22.1184"))
  (attribute "ORDERCODE_TME" (type string) (unit none) (value "10.00M-HC49-S"))
  (attribute "DATASHEET" (type string) (unit none) (value "https://www.tme.eu/Document/1a73b69e6487c12c6ef660d6ee951878/YIC-49US_49SMT-quartz_crystal.pdf"))
  (signal 7911d014-29d2-4d5b-a2ed-edfda242e087 (name "2") (role passive)

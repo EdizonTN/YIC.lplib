@@ -1,6 +1,6 @@
 (librepcb_component dab61654-1e28-461c-8793-a5496a768a2c
  (name "14.7456M-HC49-S")
- (description "±30ppm; 20pF")
+ (description "±30ppm; 20pF\n14.7456M-HC49-S")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")

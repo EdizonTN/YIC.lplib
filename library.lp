@@ -1,6 +1,6 @@
 (librepcb_library cf3c9106-3b5b-4992-ad00-5747a6e048ca
  (name "YIC")
- (description "Yuechung International Corporation")
+ (description "This is a unnoficial testing LibrePCB library. \nYuechung International Corporation. \nCrystal oscillators. With order codes and link to datasheet.")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
