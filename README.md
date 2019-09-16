@@ -2,8 +2,7 @@
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) library!
-Just edit this file to add a description about it.
+This is an unofficial testing [LibrePCB](https://librepcb.org) library. 
 
 ## License
 
