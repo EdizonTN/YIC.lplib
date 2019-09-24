@@ -9,7 +9,7 @@
  (category 39d4b3d6-4168-4fe2-9420-fbf7eb3ac248)
  (schematic_only false)
  (default_value "{{VALUE}}")
- (prefix "Q")
+ (prefix "QZ")
  (attribute "MPN" (type string) (unit none) (value "12.288M-HC49-S"))
  (attribute "VALUE" (type frequency) (unit megahertz) (value "12.288"))
  (attribute "ORDERCODE_TME" (type string) (unit none) (value "10.00M-HC49-S"))
